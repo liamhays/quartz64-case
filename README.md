@@ -9,8 +9,8 @@ using the Quartz with a microSD card, `quartz64_nvme_base.stl` is for
 using the Quartz with a 80mm NVMe drive, and `quartz64_case_lid.stl`
 is the lid for both bases.
 
-[quartz64 case from front](images/front.jpg)
+![quartz64 case from front](images/front.jpg)
 
-[quartz64 NVMe case from back](images/nvme_rear.jpg)
+![quartz64 NVMe case from back](images/nvme_rear.jpg)
 
-[quartz64 SD case from back](images/sd_rear.jpg)
+![quartz64 SD case from back](images/sd_rear.jpg)
